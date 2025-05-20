@@ -4,6 +4,7 @@
 > — Inspired by Tiresias, the blind prophet who saw all.
 
 ---
+![world](https://github.com/user-attachments/assets/8d98e899-b3a4-4b4e-9934-a13bd4e641df)
 
 ### 🧠 About Me
 
