@@ -22,10 +22,10 @@ A crypto enthusiast with a creative knack for designing compelling content — f
 
 A personal and contextual neural network system that:
 
-* 📆 Predicts your future actions based on past patterns
-* 🧓 Logs and analyzes behaviors via CLI and dashboard
-* ⏳ Understands time-sensitive triggers and habits
-* 🧠 Uses feedforward + LSTM networks with natural language interpretation
+* Predicts your future actions based on past patterns
+* Logs and analyzes behaviors via CLI and dashboard
+* Understands time-sensitive triggers and habits
+* Uses feedforward + LSTM networks with natural language interpretation
 
 > “Know thyself, and thou shalt know the gods and the universe.”
 > — Inscribed on the Temple of Apollo at Delphi
@@ -44,10 +44,10 @@ A personal and contextual neural network system that:
 
 ### Current Focus
 
-* 🚧 Building TiresiasIQ v2 with natural language understanding
-* 📈 Training LSTMs to reason like metaphorical minds
-* 🚀 Building minimal sat-stacking dashboards (Bitcoin focused)
-* 🧪 Researching dark psychology & social pattern engineering
+* Building TiresiasIQ v2 with natural language understanding
+* Training LSTMs to reason like metaphorical minds
+* Building minimal sat-stacking dashboards (Bitcoin focused)
+* Researching dark psychology & social pattern engineering
 
 ---
 
@@ -66,7 +66,7 @@ I believe:
 
 ### Contact & Collaboration
 
-* DM me on [GitHub](https://github.com/axelvyrn) or [stacker.news](https://stacker.news/istealkids) *(if alive there)*
+* DM me on [Keybase - 791D EDB5 0443 282B](https://keybase.io/istealkids) or [stacker.news](https://stacker.news/istealkids) *(if alive there)*
 * Open to collabs on behavioral AI, decentralized identity, and prediction tech
 
 ---
