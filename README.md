@@ -28,7 +28,7 @@ A personal and contextual neural network system that:
 * Predicts your future actions based on past patterns
 * Logs and analyzes behaviors via CLI and dashboard
 * Understands time-sensitive triggers and habits
-* Uses feedforward + LSTM networks with natural language interpretation
+* Uses feedforward + LSTM + KNN networks with natural language interpretation
 
 > “Know thyself, and thou shalt know the gods and the universe.”
 > — Inscribed on the Temple of Apollo at Delphi
@@ -41,13 +41,13 @@ A personal and contextual neural network system that:
 * **Streamlit**, CLI UX, Jupyter
 * **HTML/CSS/JS** for interfaces
 * **Git**, **VS Code**, **Linux** workflows
-* Currently exploring: `Web3`, `NOSTR`, `Neuro-symbolic AI`
+* Currently exploring: Web3, NOSTR, Neuro-symbolic AI
 
 ---
 
 ### Current Focus
 
-* Building TiresiasIQ v2 with natural language understanding
+* Building TiresiasIQ v3 with natural language understanding
 * Training LSTMs to reason like metaphorical minds
 * Building minimal sat-stacking dashboards (Bitcoin focused)
 * Researching dark psychology & social pattern engineering
@@ -69,7 +69,7 @@ I believe:
 
 ### Contact & Collaboration
 
-* DM me on [Keybase - 791D EDB5 0443 282B](https://keybase.io/istealkids) or [stacker.news](https://stacker.news/istealkids) *(if alive there)*
+* DM me on [Keybase - 791D EDB5 0443 282B](https://keybase.io/istealkids) or [stacker.news](https://stacker.news/noknees) *(if alive there)*
 * Open to collabs on behavioral AI, decentralized identity, and prediction tech
 
 ---
