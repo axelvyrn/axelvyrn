@@ -14,6 +14,9 @@ I create tools that read between the lines, question the default, and harness co
 
 A crypto enthusiast with a creative knack for designing compelling content — from visuals and videos to websites and UI flows. I build with both code and aesthetics in mind.
 
+## Trophies
+![Tropies](https://github-profile-trophy.vercel.app/?username=axelvyrn&theme=aura)
+
 ---
 
 ### 🔮 Featured Project
