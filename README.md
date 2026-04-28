@@ -27,5 +27,3 @@ A personal and contextual neural network system that:
 
 > “Know thyself, and thou shalt know the gods and the universe.”
 > — Inscribed on the Temple of Apollo at Delphi
-
----
